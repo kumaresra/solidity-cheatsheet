@@ -1,4 +1,4 @@
-# solidity-cheatsheet
+# Solidity-Cheatsheet
 Solidity cheatsheet for developers
 
 ### Disclaimer: Work in progress, Use with caution
@@ -8,10 +8,9 @@ Solidity cheatsheet for developers
 Solidity cheatsheet is available in [solidity-cheatsheet](/README.md).
 
 ## Tips & Tricks
-- Ethereum will be updated very frequently until a stable build. So expect new best practices and security consideration every now and then.
-- Your code will have bugs and be prepared to handle those. Use techniques such as pausing the contract and limiting usage.
-- Keep your contract simple and Modularize.
-- Make use of libraries so that you can reuse and update code.
+- Keep the contract simple and Modularize
+- Ensure exception handling is high quality to reduce code bugs. Use techniques such as pausing the contract and limiting usage.
+- Reuse code - use libraries & 
 - Try to use already available tools and libraries and update them frquently.
 - Never try to store and implement everything in solidity. Use it where decentralization is needed.
 
