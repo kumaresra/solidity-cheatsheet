@@ -9,10 +9,10 @@ Solidity cheatsheet is available in [solidity-cheatsheet](/README.md).
 
 ## Tips & Tricks
 - Keep the contract simple and Modularize
-- Ensure exception handling is high quality to reduce code bugs. Use techniques such as pausing the contract and limiting usage.
-- Reuse code - use libraries & 
-- Try to use already available tools and libraries and update them frquently.
-- Never try to store and implement everything in solidity. Use it where decentralization is needed.
+- Ensure exception handling is high quality to reduce code bugs. Use techniques such as pausing the contract and limiting usage
+- Reuse code - use libraries
+- Try to use already available tools and libraries and update them frquently
+- Use Solidity where decentralization is needed
 
 
 ### External calls
